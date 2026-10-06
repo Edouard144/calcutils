@@ -1,4 +1,5 @@
 # calcutils-edouard144
+![calcutils demo](images/demo.png)
 
 A simple math utility package.
 
